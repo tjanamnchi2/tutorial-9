@@ -1,0 +1,16 @@
+---
+title: "Five Parameters"
+author: "Tanay Janmanchi"
+format: html
+execute:
+  echo: false
+---
+
+```{r}
+#| label: setup
+#| message: FALSE
+
+library(tidyverse)
+library(primer.data)
+```
+
